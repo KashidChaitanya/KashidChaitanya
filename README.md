@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Kashid</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-(img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif")
+img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"
 
 - 🌱 I’m currently learning **Node.js**
 
