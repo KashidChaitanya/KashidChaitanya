@@ -2,9 +2,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Chaitanya Kashid</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **kashidchaitanya2001@gmail.com**
 
