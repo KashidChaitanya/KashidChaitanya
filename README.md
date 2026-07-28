@@ -1,130 +1,194 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Kashid</h1>
 
 <h3 align="center">
-Full Stack Developer | Java & Angular Developer from India 🇮🇳
+Full Stack Developer | Java | Angular | MERN Stack Developer 🇮🇳
 </h3>
 
 <p align="center">
-Building scalable web applications using Angular, Spring Boot, and MySQL.
+Passionate Software Developer building scalable web applications with modern technologies.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m a Full Stack Developer with experience in building responsive web applications.
-- 🌱 Currently improving my skills in **Java, Spring Boot, Angular, Hibernate, and Data Structures & Algorithms**.
-- 💻 Experienced in developing enterprise applications using **Angular 17, PrimeNG, REST APIs, and MySQL**.
-- 🎯 Interested in Software Development and solving real-world problems through technology.
+- 💻 Full Stack Developer experienced in building enterprise-level web applications.
+- 🌱 Currently improving my skills in **Spring Boot, Angular, MERN Stack, .NET, and Data Structures & Algorithms**.
+- 🚀 Interested in Backend Development, Cloud Technologies, and System Design.
+- 🔥 Experienced with REST API development, Database Design, and Responsive UI Development.
 - 📫 Reach me at **kashidchaitanya2001@gmail.com**
 
 ---
 
-### 🤝 Connect with me
+## 🤝 Connect With Me
 
 <p align="left">
+
 <a href="https://linkedin.com/in/chaitanya-kashid" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chaitanya Kashid LinkedIn" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+height="30" width="40"/>
 </a>
+
 </p>
+
 
 ---
 
-### 🛠️ Languages and Tools
+# 🛠️ Languages and Tools
+
+
+## Frontend Technologies
 
 <p align="left">
 
-<a href="https://angular.io" target="_blank">
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-</a>
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
 
-<a href="https://www.java.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-<a href="https://hibernate.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 
-<a href="https://www.javascript.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-</a>
-
-<a href="https://getbootstrap.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-</a>
-
-<a href="https://primeng.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/primeng/primeng-original.svg" alt="PrimeNG" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</a>
-
-<a href="https://html.spec.whatwg.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/Style/CSS/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 
 </p>
 
----
 
-### 🚀 Projects
+## Backend Technologies
 
-- **Loan Management System (VG-LMS)**  
-  Angular 17 + PrimeNG + Spring Boot + MySQL  
-  Enterprise loan processing application with modules like Payment Receipt, Foreclosure, Refund, and Prepayment.
+<p align="left">
 
-- **Train Ticket Booking Application**  
-  Angular + REST API Integration + Swagger
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 
-- **Employee Management System**  
-  Java Full Stack Application
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
 
----
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40" height="40"/>
 
-### 📊 GitHub Stats
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 
-<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
 
 </p>
 
+
+## Database
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+
+</p>
+
+
+## Tools & Others
+
+<p align="left">
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+
+</p>
+
+
 ---
 
-### 💡 Currently Learning
+# 🚀 Featured Projects
+
+
+## ✈️ TripNest - Travel Management Application
+
+**Tech Stack:**
+Angular | React | Spring Boot | REST API | MySQL
+
+A full-stack travel platform designed for managing travel services.
+
+Features:
+- User Authentication
+- Trip Management
+- Service Management
+- Booking Workflow
+- Database Integration
+- REST API Communication
+
+
+---
+
+## 🏦 Loan Management System (VG-LMS)
+
+**Tech Stack:**
+Angular 17 | PrimeNG | Spring Boot | MySQL
+
+Enterprise loan processing application.
+
+Modules:
+- Payment Receipt
+- Part Prepayment
+- Foreclosure
+- Refund
+- Credit Note
+- Waiver Charges
+
+
+---
+
+## 🚆 Train Ticket Booking Application
+
+**Tech Stack:**
+Angular | REST API | Swagger
+
+Features:
+- API Integration
+- Ticket Booking Flow
+- Dynamic UI
+
+
+---
+
+## 👨‍💼 Employee Management System
+
+**Tech Stack:**
+
+Java | Spring Boot | MySQL
+
+CRUD based employee management application.
+
+
+---
+
+# 📚 Currently Learning
 
 - Advanced Angular Concepts
 - Spring Boot Microservices
-- Hibernate & JPA
+- MERN Stack Development
+- ASP.NET Core
 - Data Structures & Algorithms
-- System Design Basics
+- System Design
+
+
+---
+
+# 📊 GitHub Activity
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+</p>
+
 
 ---
 
