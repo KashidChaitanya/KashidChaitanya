@@ -154,18 +154,6 @@ Features:
 - Ticket Booking Flow
 - Dynamic UI
 
-
----
-
-## 👨‍💼 Employee Management System
-
-**Tech Stack:**
-
-Java | Spring Boot | MySQL
-
-CRUD based employee management application.
-
-
 ---
 
 # 📚 Currently Learning
